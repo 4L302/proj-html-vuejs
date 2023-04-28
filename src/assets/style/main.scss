@@ -1,0 +1,13 @@
+@use './variable.scss' as *;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;600&display=swap');
+
+@import '@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '@fortawesome/fontawesome-free/scss/solid.scss';
+
+@import 'bootstrap/scss/bootstrap';
+
+body{
+    font-family: 'Montserrat', sans-serif;
+     
+}
