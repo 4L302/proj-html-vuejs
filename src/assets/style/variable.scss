@@ -1,16 +1,15 @@
 //Color Styles
-
-$pink: #FA225B;
-$white: #FFFFFF;
-$cyan: #7A89AB;
-$green: #87C856;
-$dark-blue: #1D2028;
-
+:root {
+    $pink: #fa225b;
+    $white: #ffffff;
+    $cyan: #7a89ab;
+    $green: #87c856;
+    $dark-blue: #1d2028;
+}
 //Debug
 
-.dbg{
+.dbg {
     border: 1px solid red;
-}
+} 
 
 //Utilities
-
